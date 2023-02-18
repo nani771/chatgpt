@@ -1,1 +1,5 @@
+worker: pip install pyTelegramBotAPI
+pip install openai
+
+
 worker: python main.py
